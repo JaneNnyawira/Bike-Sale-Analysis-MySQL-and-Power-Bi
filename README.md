@@ -1,4 +1,5 @@
 # Bike-Sale-Analysis-MySQL-and-Power-Bi
+![Bike Sale](https://github.com/JaneNnyawira/Bike-Sale-Analysis-MySQL-and-Power-Bi/assets/134518125/c6bb703b-4d9b-426a-a8d4-92856155d555)
 
 1. Data - It has 1206 rows and 13 columns. The bike business needed to understand the trends of purchase.
 2. Data Cleaning and Analysis - MySQL.
